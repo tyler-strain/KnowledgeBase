@@ -1,0 +1,20 @@
+<div class="w3-sidebar w3-bar-block w3-light-grey w3-card" style="width:200px; margin-left: 5px">
+  <h3>Knowledge</h3>
+  <a href="KnowledgeBase.html" class="w3-bar-item w3-button">Knowledge Base</a>
+  <h3>General Links</h3>
+      <a href="https://itsm.corp.sprint.com/sm934/index.do" class="w3-bar-item w3-button">ITSM</a></li>
+  		<a href="https://clickit.corp.sprint.com/sm934/ess.do" class="w3-bar-item w3-button">Click IT</a></li>
+      <a href="https://psihub.corp.sprint.com/psp/ih91prd/EMPLOYEE/EMPL/h/?tab=Z_ESS_TAB"class="w3-bar-item w3-button">Self Service</a></li>
+			<a href="https://iconnect.sprint.com/docs/DOC-13480"class="w3-bar-item w3-button">Onboarding</a></li>
+			<a href="https://www.office.com/?auth=2"class="w3-bar-item w3-button">Microsoft Office</a></li>
+      <a href="https://outlook.office.com/mail/"class="w3-bar-item w3-button">Outlook</a></li>
+  <h3>ITOCC Links</h3>
+      <a href="https://appd-prod.corp.sprint.com/controller/#/location=AD_HOME_OVERVIEW"class="w3-bar-item w3-button">AppDynamics - Production</a></li>
+      <a href="https://appd-nonprod.test.sprint.com/controller/#/location=AD_HOME_OVERVIEW&amp;timeRange=last_1_hour.BEFORE_NOW.-1.-1.60/"class="w3-bar-item w3-button">AppDynamics - Non-Production</a></li>
+      <a href="https://elasticsearch/app/kibana#/dashboards?_g=()"class="w3-bar-item w3-button">Kibana</a></li>
+  <h3>DevOps Links</h3>
+    <a href="https://tvmkms369.test.sprint.com:8080/login?from=%2Fjob%2Fadd_users_cicd_tools%2F"class="w3-bar-item w3-button">Jenkins</a></li>
+    <a href="https://jira.sprintdd.com/login.jsp?permissionViolation=true&amp;os_destination=%2Fprojects%2FDSO%2Fissues%2FDSO-71%3Ffilter%3Dallopenissues&amp;page_caps=&amp;user_role=/"class="w3-bar-item w3-button">Jira</a>
+    <a href="https://ms360-ocp1-master-np.test.sprint.com/"class="w3-bar-item w3-button">Openshift</a></li>
+
+</div>
